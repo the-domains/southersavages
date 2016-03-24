@@ -1,6 +1,6 @@
 name: SoutherSavages
 favicon: null
-layout_spectrum: 0.87088203872554
+layout_spectrum: 1
 typography_spectrum: 0.21675339341163635
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#050505'
+    - '#ffffff'
+    - '#847b72'
+    - '#4f4417'
+    - '#b7ada1'
   brandStrength: 0.2619150038808584
   lightness: 0.15008640638552606
   saturation: 0.11270919977687299
