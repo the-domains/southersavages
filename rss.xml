@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[SoutherSavages]]></title>
-        <description><![CDATA[SoutherSavages]]></description>
-        <link>https://thegrid.ai/southersavages/</link>
+        <title><![CDATA[SOUTHERN SAVAGES]]></title>
+        <description><![CDATA[SOUTHERN SAVAGES]]></description>
+        <link>https://thegrid.ai/southernsavages/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 16:51:10 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/southersavages/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 24 Mar 2016 19:32:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/southernsavages/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a1ec02a-4786-4ff3-aaaa-358378eef0d8.jpg">]]></description>
-            <link>https://thegrid.ai/southersavages/southern-savages/index.html</link>
+            <title><![CDATA[-Aspire to be great]]></title>
+            <description><![CDATA[<article><h1>-Aspire to be great</h1><p>Southern Savages</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ccbdb66-2ff4-4ac5-a515-181802a5f382.png"></article>]]></description>
+            <link>https://thegrid.ai/southernsavages/southern-savages/index.html</link>
             <guid isPermaLink="false">7114f229-94f5-448f-bba5-75fc87a84260</guid>
-            <pubDate>Thu, 24 Mar 2016 16:51:07 GMT</pubDate>
+            <pubDate>Thu, 24 Mar 2016 19:32:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
