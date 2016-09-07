@@ -1,20 +1,4 @@
-name: Southern Savages
-favicon: null
-layout_spectrum: 0
 typography_spectrum: 0.82741
-title: SOUTHERN SAVAGES
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#000000'
@@ -26,4 +10,21 @@ color:
   lightness: 1
   saturation: 0.625
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Southern Savages
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: SOUTHERN SAVAGES
+description: The World's a SAVAGE place.
 purpose: []
